@@ -1,0 +1,52 @@
+ 
+  /* custom css for the footer in the page */
+  
+  .footer-logo img {
+    width: 120px;
+    height: auto;
+  }
+  
+  .footer-top {
+    padding: 20px 0;
+  }
+  
+  .footer-bottom {
+    padding: 10px 0;
+    border-top: 1px solid #e4e4e4;
+  }
+  
+  .footer-top h5,
+  .footer-bottom h5 {
+    margin-bottom: 10px;
+  }
+  
+  .footer-top ul,
+  .footer-bottom ul {
+    padding-left: 0;
+    list-style: none;
+  }
+  
+  .footer-top ul li,
+  .footer-bottom ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-top ul li i,
+  .footer-bottom ul li i {
+    margin-right: 8px;
+  }
+  
+  .footer-bottom .list-inline-item {
+    margin-right: 15px;
+  }
+  
+  .footer-bottom .fa-lg {
+    font-size: 1.5em;
+  }
+  
+  .text-muted {
+    color: #6c757d !important;
+  }
+  
+  /* css for the footer ends here */
+  
